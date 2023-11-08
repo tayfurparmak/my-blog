@@ -10,7 +10,7 @@ function Header() {
         <span>BLOG</span>
       </Link>
       <nav>
-        <Link href="https://github.com/mehmetpekcan" target="_blank">
+        <Link href="https://github.com/tayfurparmak" target="_blank">
           About
         </Link>
       </nav>

@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 function Footer() {
   return (
     <footer className={styles.footer}>
-      <h4>Built with Next.js and 💞</h4>
+      <h4>Bu bir Nextjs ile yapılmış Blog sayfasıdır. 💞</h4>
     </footer>
   );
 }
